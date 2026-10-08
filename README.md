@@ -11,7 +11,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 
-[Download Latest SDK](https://drive.google.com/file/d/121ymJ0rivE97WxEZr1aQI2_zoaotfY9S/view?usp=drive_link)
+[Download Latest SDK](https://drive.google.com/drive/folders/10IaJMqgPmcofishiJkLPeakLrxUvAVef?usp=drive_link)
 ## Table of Contents
 
 - [Installation Guide](#installation-guide)
