@@ -61,7 +61,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
 
    After installation, verify that the On-premise Server is correctly installed by checking the task manager:
    <div align="center">
-      <img src="https://github.com/user-attachments/assets/98e87782-073d-475c-962f-37151ef9754f" width="450" />
+      <img src="https://github.com/MiniAiLive/Open-Source-Face-Recognition-Windows/blob/main/images/3.png?raw=true" width="450" />
    </div>
 
 ## FaceSDK API Details
