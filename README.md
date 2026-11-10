@@ -40,7 +40,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
 
    Run the installer and follow the on-screen instructions to complete the installation.
    <div align="center">
-      <img src="https://github.com/user-attachments/assets/3438fa1c-f869-4ac0-85fc-762716da09bc" width="450" />
+      <img src="[https://github.com/user-attachments/assets/3438fa1c-f869-4ac0-85fc-762716da09bc](https://github.com/MiniAiLive/Open-Source-Face-Recognition-Windows/blob/73f1c594bdf02f96f67e1c1a3c4e4ce751bd158a/images/1.png)" width="450" />
    </div>
 
 3. **Request License and Update:**
