@@ -31,6 +31,10 @@ Check the likelihood that two faces belong to the same person. You will get a co
 
 1. **Download the Face Recognition Windows Server Installer:**
 
+> **Note**
+>
+> For smoother installation, pleast turn on all apps and install Face SDK Installer better to install after restarting.
+
    Download the Server installer for your operating system from the following link:
    
    [Download the On-premise Server Installer](https://drive.google.com/file/d/1d139Rm0NMYzQ8_XKho3u-qZrFprf2uAo/view?usp=drive_link)
