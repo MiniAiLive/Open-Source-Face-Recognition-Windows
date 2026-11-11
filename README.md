@@ -43,21 +43,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
       <img src="https://github.com/MiniAiLive/Open-Source-Face-Recognition-Windows/blob/main/images/1.png?raw=true" width="450" />
    </div>
 
-3. **Request License and Update:**
-
-   Run MIRequest.exe file to generate a license request file. You can find it here.
-   
-   > C:\Program Files\MiniAiLive\MiniAiLive-FaceSDK-WinServer
-
-   Open it, generate a license request file, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
-   <div align="center">
-      <img src="https://github.com/user-attachments/assets/d54686be-c7d8-42ba-8c57-f62fe1ec81e3" width="300" />
-      <img src="https://github.com/user-attachments/assets/e33757a7-7fb1-411e-8136-129800198773" width="300" />
-      <img src="https://github.com/user-attachments/assets/f34cdb2d-2b4e-48ec-b303-fd38cf128336" width="300" />
-      <img src="https://github.com/user-attachments/assets/b1579722-462c-478a-9106-67b9a10b3514" width="300" />
-   </div>
-
-4. **Verify Installation:**
+3. **Verify Installation:**
 
    After installation, verify that the On-premise Server is correctly installed by checking the task manager:
    <div align="center">
