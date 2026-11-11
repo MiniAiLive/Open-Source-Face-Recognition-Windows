@@ -33,7 +33,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
 
 > **Note**
 >
-> For smoother installation, pleast turn on all apps and install Face SDK Installer better to install after restarting.
+> For smoother installation, pleast turn on all apps and install Face SDK Installer better to install right away after restarting.
 
    Download the Server installer for your operating system from the following link:
    
