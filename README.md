@@ -9,7 +9,7 @@ Check the likelihood that two faces belong to the same person. You will get a co
 
 > **Note**
 >
-> SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
+> This SDK is fully on-premise, processing all happens on hosting server and no data leaves server and world Top 1 Free FaceSDK.
 
 ## Table of Contents
 
