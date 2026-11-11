@@ -178,9 +178,9 @@ with gr.Blocks() as MiniAIdemo:
                     im_match_in1 = gr.Image(type='filepath', height=300)
                     gr.Examples(
                         [
+                            "images/img1.jpg",
                             "images/img2.jpg",
                             "images/img3.jpg",
-                            "images/img4.jpg",
                         ],
                         inputs=im_match_in1
                     )
@@ -188,9 +188,9 @@ with gr.Blocks() as MiniAIdemo:
                     im_match_in2 = gr.Image(type='filepath', height=300)
                     gr.Examples(
                         [
+                            "images/img4.jpg",
                             "images/img5.jpg",
                             "images/img6.jpg",
-                            "images/img7.jpg",
                         ],
                         inputs=im_match_in2
                     )

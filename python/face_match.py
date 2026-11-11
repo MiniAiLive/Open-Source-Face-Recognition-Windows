@@ -4,8 +4,8 @@ import requests
 url = 'http://127.0.0.1:8083/api/face_match'
 
 # Path to the image file you want to send
-image_path_1 = './test_image/img1.jpg'
-image_path_2 = './test_image/img2.jpg'
+image_path_1 = './test_image/img0.jpg'
+image_path_2 = './test_image/img1.jpg'
 
 # Read the image file and send it as form data
 files = {

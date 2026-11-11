@@ -4,7 +4,7 @@ import requests
 url = 'http://127.0.0.1:8083/api/face_detect'
 
 # Path to the image file you want to send
-image_path = './test_image/img1.jpg'
+image_path = './test_image/img0.jpg'
 
 # Read the image file and send it as form data
 files = {'image': open(image_path, 'rb')}
