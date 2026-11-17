@@ -5,7 +5,9 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-Check the likelihood that two faces belong to the same person. You will get a confidence score and thresholds to evaluate the similarity. Feel free to use our MiniAI Open Source Face Recognition Windows SDK.
+**This is world first top accurate open source face recognition SDK which is sold with high price till Last Month.**
+We decided to make this open source to help many developers and students who are studying AI especially for Biometrics field.
+We are removing license part now and it will take time less than 1 week to make this fully open source.
 
 > **Note**
 >
