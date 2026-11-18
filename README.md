@@ -39,7 +39,7 @@ We are removing license part now and it will take time less than 1 week to make 
 
    Download the Server installer for your operating system from the following link:
    
-   [Download the On-premise Server Installer](https://drive.google.com/file/d/1d139Rm0NMYzQ8_XKho3u-qZrFprf2uAo/view?usp=drive_link)
+   [Download the On-premise Server Installer](https://drive.google.com/file/d/1w0eE9kj43M5NgY3axEAjwlKLE9swni70/view?usp=drive_link)
 
 2. **Install the On-premise Server:**
 
